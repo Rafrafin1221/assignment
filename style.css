@@ -129,7 +129,7 @@ body{
     background-image: url(shapes/7.png);
     background-repeat: no-repeat;
     display: flex;
-    height: 560px;
+    height: 600px;
     background-size: cover;
 }
 .intro h1{
@@ -146,7 +146,7 @@ body{
     margin-bottom: 5%;
 }
 #intro-img{
-    width: 50%;
+    width: 54%;
     margin-left: 20%;
 }
 .top-recipe{
